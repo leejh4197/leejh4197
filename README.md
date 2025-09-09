@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <br><br><br>
   
 ## 📂
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@leejh4197)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.leejh4197@gmail.com)
   <br><br><br>
   
